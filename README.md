@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/obinowilliam" target="blank"><img src="https://img.shields.io/twitter/follow/obinowilliam?logo=twitter&style=for-the-badge" alt="obinowilliam" /></a> </p>
 
-- 🔭 I’m currently working on [Multiple startups](staka.cc)
+- 🔭 I’m currently working on [Acetut AI](acetut.staka.cc) and [CropKe](https://huggingface.co/Cloudsurfer48902/tinycropke-4bit)
 
 - 📫 How to reach me **obinowilliam@staka.cc**
 
@@ -12,7 +12,7 @@
 <a href="https://twitter.com/obinowilliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obinowilliam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/williamobino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamobino" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14175864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14175864" height="30" width="40" /></a>
-<a href="https://fb.com/william obino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william obino" height="30" width="40" /></a>
+<a href="https://www.facebook.com/william.obino.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william obino" height="30" width="40" /></a>
 <a href="https://instagram.com/_cloudsurfer._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cloudsurfer._" height="30" width="40" /></a>
 </p>
 
