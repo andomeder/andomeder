@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Acetut](acetut.staka.cc)
 
-- For my class project, I'm working on [CropKe](https://huggingface.co/Cloudsurfer48902/tinycropke-4bit)
+- For my class project, I'm working on [Rektube](https://github.com/andomeder/rektube)
 
 - 📫 How to reach me **obinowilliam@staka.cc**
 
