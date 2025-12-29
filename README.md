@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm William Obino</h1>
-<h3 align="center">A passionate fullstack developer and startup founder</h3>
+<h1 align="center">Hi, I'm William Obino</h1>
+<h3 align="center">A passionate dev and startup founder</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andomeder" alt="andomeder" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Acetut](acetut.staka.cc)
 
-- For my class project, I'm working on [Rektube](https://github.com/andomeder/rektube)
+- For my class project, I'm working on [OmaSign](https://github.com/andomeder/omasign)
 
 - 📫 How to reach me **obinowilliam@staka.cc**
 
