@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/obinowilliam" target="blank"><img src="https://img.shields.io/twitter/follow/obinowilliam?logo=twitter&style=for-the-badge" alt="obinowilliam" /></a> </p>
 
-- 🔭 I’m currently working on [LaunchGround](launchground.co.ke)
+- 🔭 I’m currently working on [LaunchGround](https://launchground.co.ke)
 
 - For my class project, I'm working on [OmaSign](https://github.com/andomeder/omasign)
 
