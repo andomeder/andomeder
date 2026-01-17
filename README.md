@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/obinowilliam" target="blank"><img src="https://img.shields.io/twitter/follow/obinowilliam?logo=twitter&style=for-the-badge" alt="obinowilliam" /></a> </p>
 
-- 🔭 I’m currently working on [Acetut](acetut.staka.cc)
+- 🔭 I’m currently working on [LaunchGround](launchground.co.ke)
 
 - For my class project, I'm working on [OmaSign](https://github.com/andomeder/omasign)
 
-- 📫 How to reach me **obinowilliam@staka.cc**
+- 📫 How to reach me **william@launchground.co.ke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
