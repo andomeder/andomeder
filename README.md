@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm William Obino</h1>
 <h3 align="center">A passionate dev and startup founder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andomeder" alt="andomeder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=andomeder" alt="andomeder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/obinowilliam" target="blank"><img src="https://img.shields.io/twitter/follow/obinowilliam?logo=twitter&style=for-the-badge" alt="obinowilliam" /></a> </p>
 
